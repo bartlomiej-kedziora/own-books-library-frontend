@@ -1,0 +1,8 @@
+{
+  "city": "string",
+  "country": "string",
+  "id": 0,
+  "name": "string",
+  "surname": "string",
+  "yearOfBirth": 0
+}
